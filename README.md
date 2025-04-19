@@ -41,7 +41,5 @@ To install the requirements, follow these steps:
     python ./models/ML_model.py
     ```
    - This will invoke the PCA model for complete feature optimization and then use the Random Forest algorithm for DTI prediction.
-- FSI_framework: [GitHub Link](https://github.com/piyanuttnk/FSI_framework)  
-- HFHLMDA: [GitHub Link](https://github.com/LiangXujun/CGHCN/HFHLMDA_main.py)
 
 ## Thanks!
